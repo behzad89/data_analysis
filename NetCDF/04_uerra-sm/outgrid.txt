@@ -1,9 +1,0 @@
-gridtype = lonlat 
-xsize = 140
-ysize = 197
-xfirst = 4.5
-yfirst = 53.5
-xinc = 0.2181693118
-yinc = 0.0990467949
-xunits = "degrees"
-yunits = "degrees"
