@@ -1,0 +1,9 @@
+gridtype = lonlat
+xsize = 329
+ysize = 364
+xfirst = 4.5
+yfirst = 53.5
+xinc = 0.08358662613981763
+yinc = 0.049586776859504134
+xunits = "degrees"
+yunits = "degrees"
